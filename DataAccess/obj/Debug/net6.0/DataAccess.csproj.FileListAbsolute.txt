@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\bin\Debug\net6.0\BusinessModel.dll
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\bin\Debug\net6.0\BusinessModel.pdb
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Admin\Documents\1209_SEMESTER_08\PRN231\Assignment03_PRN231\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
